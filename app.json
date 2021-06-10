@@ -44,7 +44,7 @@
        "MUTE_MESSAGE": {
             "description": "Customizable Mute Message!",
             "required": false,
-            "value": "erver is updating so the group will be muted* ~TOXIC 4L!3N"
+            "value": "Server is updating so the group will be muted* ~TOXIC 4L!3N"
         },
         "UNMUTE_MESSAGE": {
             "description": "Customizable Unmute Message!",
