@@ -1,0 +1,104 @@
+{
+    "name": "WhatsAsenaModiefied",
+    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.ibb.co/NxFN3q1/logo.jpg",
+    "keywords": ["whatsapp", "userbot", "Asena"],
+    "repository": "https://github.com/AI-VIKI/PublicBot",
+    "website":   "https://t.me/phaticusthiccy",
+    "success_url": "https://t.me/AsenaSupport",
+    "stack": "container",
+    "env": {
+        "ASENA_SESSION": {
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+            "required": true
+        },
+        "SUDO": {
+            "description": "Leave as it is ! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxxx (Indian number +91)",
+            "required": false,
+            "value": "919383400679"
+        },
+        "LANGUAGE": {
+            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
+            "required": true,
+            "value": "EN"
+        },
+        "HANDLERS": {
+            "description": "Komutlar için.",
+            "required": true,
+            "value": "^[.]"
+        },
+        "SEND_READ": {
+            "description": "Görüldü atmak istiyorsanız true yazın.",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU": {
+            "description": "Herokuda çalışıyorsa true yazın.",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Herokuda API Keyiniz. Heroku API Key.",
+            "required": true
+        },
+       "MUTE_MESSAGE": {
+            "description": "Customizable Mute Message!",
+            "required": false,
+            "value": "erver is updating so the group will be muted* ~TOXIC 4L!3N"
+        },
+        "UNMUTE_MESSAGE": {
+            "description": "Customizable Unmute Message!",
+            "required": false,
+            "value": "the server has been updated now we can talk ~TOXIC 4L!3N"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "required": true
+        },
+        "DEBUG": {
+            "description": "Geliştiricilere özeldir.",
+            "required": true,
+            "value": "false"
+        },
+        "REMOVE_BG_API_KEY": {
+            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "required": false
+        },
+        "ALIVE_MESSAGE": {
+            "description": "Customizable Alive Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "AFK_MESSAGE": {
+            "description": "Customizable AFK Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "GAN_IMAGE": {
+            "description": "Gan Style eklentisi için resim bağlantısı yazın.",
+            "required": true,
+            "value": "https://i.hizliresim.com/loUtAb.jpg"
+        },
+        "NO_ONLINE": {
+            "description": "Çevrimiçi görünmek istemiyorsanız true yazın.",
+            "required": false,
+            "value": "true"
+        },
+        "TOBZ_API_KEY": {
+            "description": "Generate your tobz apikey after chatting with +447418349954 in whatsapp.",
+            "required": false,
+            "value": "true"
+        },
+        "COFFEEHOUSE_API_KEY": {
+            "description": "CoffeeHouse API Key. Need for Lydia. https://coffeehouse.intellivoid.net/",
+            "required": false,
+            "value": "true"
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+}
