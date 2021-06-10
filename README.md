@@ -78,7 +78,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![TOXIC4L!3N](https://github.com/AI-VIKI.png?size=100)](https://github.com/AI-VIKI) |  [![farhan-dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) 
+[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![farhan-dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) 
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [farhan-dqz](https://github.com/farhan-dqz) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) 
 Author, Base, Bug Fixes, Modules | Modifiying  as   public | reeditor, modules, group support | Bug Fixes, Modules, Idea | Modules, Idea
