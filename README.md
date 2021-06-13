@@ -17,14 +17,14 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/AI-VIKI/PublicBot">
-    <img src="https://img.shields.io/github/repo-size/AI-VIKI/PublicBot?color=purple&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/alien-alfa/PublicBot">
+    <img src="https://img.shields.io/github/repo-size/alien-alfa/PublicBot?color=purple&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AI-VIKI/followers"><img title="Followers" src="https://img.shields.io/github/followers/AI-VIKI?color=blue&style=flat-square"></a>
-<a href="https://github.com/AI-VIKI/PublicBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AI-VIKI/PublicBot?color=red&style=flat-square"></a>
-<a href="https://github.com/AI-VIKI/PublicBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AI-VIKI/PublicBot?color=red&style=flat-square"></a>
-<a href="https://github.com/AI-VIKI/PublicBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AI-VIKI/PublicBot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/alien-alfa/followers"><img title="Followers" src="https://img.shields.io/github/followers/alien-alfa?color=blue&style=flat-square"></a>
+<a href="https://github.com/alien-alfa/PublicBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/alien-alfa/PublicBot?color=red&style=flat-square"></a>
+<a href="https://github.com/alien-alfa/PublicBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alien-alfa/PublicBot?color=red&style=flat-square"></a>
+<a href="https://github.com/alien-alfa/PublicBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/alien-alfa/PublicBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
 ## 📢 Guide
