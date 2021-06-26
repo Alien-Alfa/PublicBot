@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="/logo.png" width="200" height="200">
+  <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
   <h1>🐺WhatsAsena🐺 <br>>>>PUBLIC<<<</h1>
 </div>
 <p align="center">
