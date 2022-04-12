@@ -29,7 +29,7 @@
 
 ## 📢 Guide
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.jpg?raw=true)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?raw=true)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
 
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy) & [TOXIC 4L!3N](https://github.com/AI-VIKI) (Albin Thoams). Does not log into your account It is written on WhatsApp Web API.
